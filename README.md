@@ -40,6 +40,12 @@ $ cd Troupe_Test
 # Instale as dependências
 $ npm install
 
+# Instale o json-server
+$ npm install -g json-server
+
+# Instale o json-server-auth
+$ npm install json-server-auth
+
 # Execute o json-server
 $ json-server --watch db.json --delay 2000 --port 5000 -m ./node_modules/json-server-auth
 
