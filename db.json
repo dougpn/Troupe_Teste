@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "email": "teste@email.com.br",
+      "password": "$2a$10$lD.Tei.GqRkRQj0RHiqO/OmSRf2MuoYwU5l2Vy5EYsupBBG1uuQP6",
+      "username": "",
+      "id": 1
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "Vamos lá",
+      "cpf": "060.603.567-29",
+      "email": "doug@gmail.com.br",
+      "endereco": {
+        "cep": "12345898",
+        "rua": "Rua da",
+        "numero": "9",
+        "bairro": "Xerem",
+        "cidade": "Duque de caxias"
+      },
+      "id": 1
+    },
+    {
+      "nome": "ewdsasd",
+      "cpf": "212122121",
+      "email": "xzoihijccx@cmzx.com",
+      "endereco": {
+        "cep": "17872-989",
+        "rua": "asixajixax",
+        "numero": "11111122112312112",
+        "bairro": "asdas",
+        "cidade": "dasxas"
+      },
+      "id": 2
+    },
+    {
+      "nome": "dasdsa",
+      "cpf": "2131221",
+      "email": "do2@dc.com",
+      "endereco": {
+        "cep": "82112-893",
+        "rua": "Ruaa",
+        "numero": "1",
+        "bairro": "Xerem",
+        "cidade": "Duque"
+      },
+      "id": 3
+    },
+    {
+      "nome": "damks",
+      "cpf": "1231221",
+      "email": "douv@acs.com",
+      "endereco": {
+        "cep": "12313-312",
+        "rua": "Rua",
+        "numero": "12",
+        "bairro": "Xerem",
+        "cidade": "Duque de"
+      },
+      "id": 4
+    },
+    {
+      "nome": "Mano",
+      "cpf": "2344556665",
+      "email": "IUhs@sws.wms",
+      "endereco": {
+        "cep": "22345-456",
+        "rua": "Rua",
+        "numero": "22",
+        "bairro": "Xere",
+        "cidade": "Duqe"
+      },
+      "id": 5
+    },
+    {
+      "nome": "sds",
+      "cpf": "231",
+      "email": "sws@ws.swws",
+      "endereco": {
+        "cep": "22294458",
+        "rua": "Rua",
+        "numero": "2",
+        "bairro": "xerem",
+        "cidade": "sudsw"
+      },
+      "id": 6
+    },
+    {
+      "nome": "Doug",
+      "cpf": "06060356729",
+      "email": "douvinhas@jids.com",
+      "endereco": {
+        "cep": "2525016_",
+        "rua": "Rua da Posse",
+        "numero": "9",
+        "bairro": "Vila Santa Alice",
+        "cidade": "Duque de Caxias"
+      },
+      "id": 7
+    },
+    {
+      "nome": "Doug",
+      "cpf": "06060356729",
+      "email": "douvin@gmail.com",
+      "endereco": {
+        "cep": "25250160",
+        "rua": "Rua da Posse",
+        "numero": "9",
+        "bairro": "Vila Santa Alice",
+        "cidade": "Duque de Caxias"
+      },
+      "id": 8
+    }
+  ]
+}
